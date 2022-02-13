@@ -1,9 +1,14 @@
 ## Hi,  I'm Mariana Oliveira or Nahna...🖖
 
 - 🎓 University graduate: 5th period of the Information Systems course.
+
 - 🎓 Formation: Graphic design
+
 - 📚 Studying: front-end React.
+
 - 📌 In search of new paths in the market.
+
+  <br/>
 
 <div align="center">
   <a href="https://github.com/nahnaoliv"></a>
@@ -25,8 +30,9 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202202/338224_p1DD8g36.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:2em;" src="https://share-cdn.picrew.me/shareImg/org/202202/338224_p1DD8g36.png">
 </div> 
+
 
  <div style="display: inline_block"><br>
   <p>  📍 Other assignments: </p>
