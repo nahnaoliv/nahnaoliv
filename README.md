@@ -4,7 +4,7 @@
 
 - 🎓 Formation: Graphic design
 
-- 📚 Studying: front-end React.
+- 📚 Studying: Front-end React and Back-end C#.
 
 - 📌 In search of new paths in the market.
 
