@@ -1,6 +1,6 @@
 ## Hi,  I'm Mariana Oliveira or Nahna...🖖
 
-- 🎓 University graduate: 5th period of the Information Systems course.
+- 🎓 University graduate: 6th period of the Information Systems course.
 
 - 🎓 Formation: Graphic design
 
