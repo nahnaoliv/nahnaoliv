@@ -1,12 +1,10 @@
 ## Hi,  I'm Mariana Oliveira or Nahna...🖖
 
-- 🎓 University graduate: 6th period of the Information Systems course.
+- 🎓 University graduate: 7th period of the Information Systems course.
 
 - 🎓 Formation: Graphic design
 
-- 📚 Studying: Front-end React and Back-end C#.
-
-- 📌 In search of new paths in the market.
+- 📚 Studying: React, C#, JavaScript, Chatbot, api.
 
   <br/>
 
