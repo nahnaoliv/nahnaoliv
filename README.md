@@ -1,10 +1,8 @@
 ## Hi,  I'm Mariana Oliveira or Nahna...🖖
 
-- 🎓 University graduate: 7th period of the Information Systems course.
+- 🎓 Graduada em Sistemas de Infomarçao!
 
-- 🎓 Formation: Graphic design
-
-- 📚 Studying: React, C#, JavaScript, Chatbot, api.
+- 📚 Studying: React, JavaScript, Chatbot, api's.
 
   <br/>
 
@@ -19,13 +17,9 @@
 
  <div style="display: inline_block"><br>
   <p>  📚 Languages I study: </p>
+  <img align="center" alt="Chatbot" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2040/2040946.png"/>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png">
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="VStudio" height="30" width="30" src="https://img.icons8.com/fluency/48/000000/visual-studio.png"/>
 </div> 
