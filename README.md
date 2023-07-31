@@ -1,6 +1,6 @@
 ## Ola, sou Mariana Oliveira
 
-- 🎓 Graduação em Sistemas de Infomarçao!
+- 🎓 Graduação: Sistemas de Infomarçao!
 
 - 📚 Conhecimentos: <img align="center" alt="Chatbot" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/2040/2040946.png"/>
   <img align="center" alt="React" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/875/875209.png">
