@@ -11,6 +11,7 @@ Sou da area de 👩‍💻 Suporte | Analise experiência abrangente em suporte 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianaoliveira94/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mary.oliveira809@gmail.com)
+[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mariana_O/)
 
 
 ## 🔗 Skills
