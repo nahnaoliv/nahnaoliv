@@ -3,15 +3,13 @@
   <img alt="nana_img" src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif">
 </div>
 
-# Olá, sou a Naná 🎮
+# Olá, sou a Nahna 🎮
 
-Estou retornando ao desenvolvimento...
-
-Sou da area de 👩‍💻 Suporte | Analise experiência abrangente em suporte técnico, desenvolvimento e governança em TI, configuração remota, suporte a chatbots e gestão de serviços de TI seguindo padrões ITIL v3. Formação em Sistemas da Informação, experiência com plataformas como Totvs Protheus e Take Blip, HubSpot, Jira.
+Analista de TI com experiência em desenvolvimento de chatbots e UX/UI. Atua na criação de soluções automatizadas para otimização do atendimento digital, utilizando plataformas como Take Blip, IBM Watson, Zenvia e Figma.
+Possui habilidades em desenvolvimento e sustentação de chatbots para diversos canais digitais, integração de APIs e análise de arquitetura conversacional, programação em JavaScript, .NET C# e JSON, além de otimização da experiência do usuário e aplicação de metodologias ágeis.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianaoliveira94/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mary.oliveira809@gmail.com)
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mariana_O/)
 
 
 ## 🔗 Skills
